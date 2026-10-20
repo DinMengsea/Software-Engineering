@@ -1,0 +1,34 @@
+
+# Maven build output
+target/
+
+# Generated Word Count results
+result.csv
+
+# Large test datasets
+test-data/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+# zip files
+*.zip
